@@ -1,4 +1,4 @@
-This repository summarizes the artifact submitted to the POPL 2017 Artifact Evaluation process.
+This repository summarizes the artifact submitted to the POPL 2017 Artifact Evaluation process for the paper "Hazelnut: A Bidirectionally Typed Structure Editor Calculus".
 
 There are two separate pieces to this artifact:
 
